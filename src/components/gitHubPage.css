@@ -1,0 +1,52 @@
+.github {
+  width: 100%;
+}
+.container {
+  width: 1200px;
+  margin-top: 50px;
+}
+.paragraf {
+  text-align: center;
+  margin-top: 50px;
+}
+.userContainer {
+  max-width: 1300px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.userName {
+  width: 400px;
+  border: 1px solid silver;
+}
+.imgContainer {
+  border-radius: 50%;
+}
+.img {
+  width: 398px;
+  border-radius: 50%;
+}
+.nav {
+  width: 150px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  margin-top: 15px;
+}
+.githubLink {
+  text-decoration: none;
+  color: white;
+  margin: auto;
+}
+.githubLink:hover {
+  color: silver;
+}
+.dataContainer {
+  width: 200px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+.table {
+  margin-left: 10px;
+}
